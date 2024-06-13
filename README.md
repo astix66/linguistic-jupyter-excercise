@@ -1,2 +1,2 @@
 # linguistic-jupyter-excercise
-university course assignment
+This is a university course assignment! 🐼
